@@ -7,7 +7,15 @@ It serves as a historic record of US-based Reddit traffic.
 Please do not use this information for evil.
 There is a surprising level of power contained in these findings.
 
-Link to recognition in a research symposium : https://www.honors.msstate.edu/sites/www.honors.msstate.edu/files/Abstract%20Booklet_Front%20Half_Spring%202020%28al%29_0.pdf
+The program "4pm-reddit.ipynb" is the Python3 script that is primarily used for data collection.
+It utilizes PRAW (Reddit API),Node.JS,PANDAS, Pushshift, and outputs to csv files for Excel use.
+
+-----------------------------
+
+My work was featured in Mississippi State University’s Spring 2020 Undergraduate Research Symposium.
+Details can be found at page 10, 16, and 58.
+
+Link to research symposium recognition: https://www.honors.msstate.edu/sites/www.honors.msstate.edu/files/Abstract%20Booklet_Front%20Half_Spring%202020%28al%29_0.pdf
 
 Abstract: 
 
